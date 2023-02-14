@@ -9,6 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.5.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@stripe/react-stripe-js": "^1.16.4",
+    "@stripe/stripe-js": "^1.46.0",
+    "framer-motion": "^9.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
